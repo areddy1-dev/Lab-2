@@ -22,5 +22,7 @@ public class DistCalc {
         float sqrRoot = (float) Math.pow(determinant, 0.5);
 
         System.out.printf("The distance between two points is %.3f", sqrRoot);
+        
+      
     }
 }
